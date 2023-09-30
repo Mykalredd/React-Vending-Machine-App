@@ -1,0 +1,19 @@
+.NavBar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: red;
+  color: white;
+  padding: 10px 0;
+  font-weight: bold;
+}
+
+.NavBar a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.3s ease-in-out;
+}
+
+.NavBar a:hover {
+  color: black;
+}

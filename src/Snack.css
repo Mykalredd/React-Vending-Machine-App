@@ -1,0 +1,19 @@
+.snack-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.snack-gif img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.snack-title {
+  align-self: flex-start;
+  color: red;
+}
