@@ -12,5 +12,5 @@ function Soda() {
     </div>
   );
 }
-
+// This is a soda component that sets up source as a Gif image and class is used to style the soda section in my webpage.
 export default Soda;

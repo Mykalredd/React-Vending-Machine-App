@@ -12,5 +12,5 @@ function Candy() {
     </div>
   );
 }
-
+// This is a candy component that sets up source as a Gif image and class is used to style the candy section in my webpage.
 export default Candy;

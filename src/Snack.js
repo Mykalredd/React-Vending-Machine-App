@@ -12,5 +12,5 @@ function Snack() {
     </div>
   );
 }
-
+// This is a snack component that sets up source as a Gif image and class is used to style the snack section in my webpage.
 export default Snack;
